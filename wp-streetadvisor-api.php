@@ -5,10 +5,21 @@
  * @package WP-StreetAdvisor-API
  */
 
+/*
+* Plugin Name: WP Street Advisor API
+* Plugin URI: https://github.com/wp-api-libraries/wp-streetadvisor-api
+* Description: Perform API requests to streetadvisor.com in WordPress.
+* Author: imFORZA
+* Version: 1.0.0
+* Author URI: https://www.imforza.com
+* GitHub Plugin URI: https://github.com/wp-api-libraries/wp-streetadvisor-api
+* GitHub Branch: master
+*/
+
 /* Exit if accessed directly */
 if ( ! defined( 'ABSPATH' ) ) { exit; }
 
-
+/* Check if Class Exists. */
 if ( ! class_exists( 'StreetAdvisorAPI' ) ) {
 
 	/**

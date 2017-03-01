@@ -12,7 +12,6 @@
 * Author: WP API Libraries
 * Author URI: https://wp-api-libraries.com
 * Version: 1.0.0
-* Author URI: https://www.imforza.com
 * GitHub Plugin URI: https://github.com/wp-api-libraries/wp-streetadvisor-api
 * GitHub Branch: master
 */
